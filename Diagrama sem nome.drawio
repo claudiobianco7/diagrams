@@ -1,4 +1,4 @@
-<mxfile modified="2023-06-29T17:29:12.210Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="y-mnEvsN34Cjh5ExLa1C" version="21.5.2" type="github">
+<mxfile modified="2023-06-29T23:13:28.024Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="N_OE1oZyFerUxDGl7Kdj" version="21.5.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1379" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -207,11 +207,11 @@
         <mxCell id="RjInF3OdLy1eirekNhiC-8" value="EventBridge" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.event_event_based;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="491" y="540" width="60" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="RjInF3OdLy1eirekNhiC-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sns;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="587" width="76.5" height="76.5" as="geometry" />
+        <mxCell id="RjInF3OdLy1eirekNhiC-9" value="SNS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sns;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="336" y="520" width="76.5" height="76.5" as="geometry" />
         </mxCell>
-        <mxCell id="RjInF3OdLy1eirekNhiC-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.email;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="710" width="81" height="61.5" as="geometry" />
+        <mxCell id="RjInF3OdLy1eirekNhiC-10" value="Email" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.email;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="622.5" width="81" height="61.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
